@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TP2</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="msg_createAccount">Créer un compte</string>
+    <string name="msg_login">Se connecter</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <string name="name">Nom</string>
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="validate">Valider</string>
+    <string name="pleaseFillAllFields">Merci de remplir tout les champs</string>
+    <string name="savedAccount">Compte sauvegardé!</string>
+    <string name="title_activity_welcome_user">WelcomeUserActivity</string>
+    <string name="hello">Bonjour </string>
+    <string name="invalidMailOrPass">Mot de passe ou email invalide</string>
+    <string name="action_logout">Deconnexion</string>
+</resources>
